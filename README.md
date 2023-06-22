@@ -19,6 +19,6 @@ This project simulates the refraction of light as it passes from a substance to 
 
 It has the ability to show the angles at which the light does not passes the substance aswell:
 
-![image](https://github.com/alexaoliveira2000/p5js/assets/77057098/56371c0b-b730-4e76-86ec-47881673ecaa)
+![image](https://github.com/alexaoliveira2000/p5js/assets/77057098/bc28fd5c-6817-4562-91b9-c06d3074956c)
 
 This happens when the refractive index of the destination substance is lower than the source.
