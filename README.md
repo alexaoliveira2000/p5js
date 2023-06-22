@@ -13,7 +13,7 @@ It has some bugs though, like releasing the ball with angles different from the 
 
 # Snell's Law
 
-![image](https://github.com/alexaoliveira2000/p5js/assets/77057098/1e1567e9-0e9a-4b96-89c8-575439909baa)
+![image](https://github.com/alexaoliveira2000/p5js/assets/77057098/f0d99a05-24a8-4f62-b139-80843859db12)
 
 This project simulates the refraction of light as it passes from a substance to another with different refractive indexes.
 
